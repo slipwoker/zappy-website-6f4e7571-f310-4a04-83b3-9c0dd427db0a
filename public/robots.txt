@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shipflow-6f4e7571.zappy5.app/sitemap.xml

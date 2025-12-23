@@ -1,0 +1,57 @@
+# ShipFlow — Generative Engine Optimization Map
+
+> A מסחר אלקטרוני business.
+
+---
+
+## Pages
+
+### דף הבית
+https://shipflow-6f4e7571.zappy5.app
+גלה את ShipFlow - פלטפורמת דרופ שיפינג מוצרי בית ישראל מקצועית. התחל למכור מוצרי בית באינטרנט עם פתרונות דרופשיפינג מתקדמים.
+
+### שירותים
+https://shipflow-6f4e7571.zappy5.app/services
+שירותי דרופ שיפינג מוצרי בית ישראל מקיפים מ-ShipFlow. גלה את הפתרונות המתקדמים שלנו לניהול עסק דרופשיפינג מוצרי בית מצליח.
+
+### אודות
+https://shipflow-6f4e7571.zappy5.app/about
+הכירו את ShipFlow - הפלטפורמה המובילה לדרופ שיפינג מוצרי בית ישראל. למדו על החזון, הערכים והמומחיות שלנו בתחום הדרופשיפינג.
+
+### צור קשר
+https://shipflow-6f4e7571.zappy5.app/contact
+צור קשר עם ShipFlow - ספק דרופ שיפינג לבית בישראל המוביל. נשמח לענות על שאלות ולעזור לך להתחיל דרופ שיפינג מוצרי בית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://shipflow-6f4e7571.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://shipflow-6f4e7571.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://shipflow-6f4e7571.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ShipFlow
+ShipFlow is a business in the מסחר אלקטרוני industry.
+
+## Target Audience
+קהל רחב
+
+## Industry
+מסחר אלקטרוני
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://shipflow-6f4e7571.zappy5.app/sitemap.xml
+- **Robots.txt**: https://shipflow-6f4e7571.zappy5.app/robots.txt
